@@ -16,11 +16,9 @@
     width: 100px;
     height: auto;	
 }
-
 blockquote {
     margin: 0;	
 }
-
 cite {
     display: block;
     border-top: 1px dotted #fff;
